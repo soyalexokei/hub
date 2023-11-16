@@ -161,6 +161,11 @@ img {
      outline: 0;
 }
 
+.hub-linea {
+     display: inline-block;
+     margin: 120;
+}
+
 .btn-custom {
      margin-top: 20px;
      background-color: transparent !important;
@@ -413,7 +418,12 @@ ul.btn li:last-child {
      left: 38px;
 }
 .text-bg {
-     text-align: left;
+     text-align: center;
+}
+
+.img-Revolut {
+     width: 275px;
+     height: 74px;
 }
 
 .text-bg h1 {
